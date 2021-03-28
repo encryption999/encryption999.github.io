@@ -2,7 +2,7 @@
 Rest assured, your personal data is safe and will never be saved.
 
 To access the leavehomesafer progressive web app (PWA), follow the link below:
-<https://bartertone.github.io/leavehomesafer/>
+<https://encryption999.github.io/leavehomesafer/>
 
 ## Special thanks to the follow "GitHub Heroes!!"
 * <https://github.com/academind/yt-example-pwa/tree/final>
